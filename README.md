@@ -17,4 +17,8 @@
 5. List all the contacts
 6. Save the address book
 7. Exit the application
-   
+
+**Pre_requisite:**
+1. Function Pointers
+2. File I/O handling
+3. Structures and Pointers
